@@ -1,6 +1,6 @@
 # React + Vite
 
-- Currently, to retrieve and display the data on-screen, you will need to click the "Get Data" button, and then the "Show Data" button. The "Log Data" button will show a console output of the full items retrieved from the API
+- Currently, to retrieve and display the data from the AAPL (Apple) stock on-screen, you will need to click the "Get Data" button, and then the "Show Data" button. The "Log Data" button will show a console output of the full items retrieved from the API
 - The API key attached to this project has a maximum of 250 calls per day, if you encounter a display issue after it has been working before, it is possible that limit has been reached.
 
 ## Please note this is a work-in-progress application. Some functionality may be minimal or not yet implemented, and files may not be optimized fully.
