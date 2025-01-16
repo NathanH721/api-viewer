@@ -6,8 +6,8 @@
 ## Please note this is a work-in-progress application. Some functionality may be minimal or not yet implemented, and files may not be optimized fully.
 
 To run the container, you should be able to use the following commands to start the app: <br />
-- `docker build -t api-viewer .` (This may take a couple minutes) <br />
-- `docker run -p 5173:5173 --name api-viewer api-viewer` <br />
+- `docker build -t api-viewer .` <br />
+- `docker run -p 5173:5173 --name api-viewer api-viewer` (This may take a couple minutes)<br />
 - Once it has finished loading and the app is running, navigate to `http://localhost:5173/` to interact with the app.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
