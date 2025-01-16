@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.displayBoard {
+  border-collapse: collapse;
+  width:  100%;
+  padding-top: 5%;
+}
+
+.displayBoard td {
+  padding: 10px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.displayBoard th {
+  background-color: #626262;
+  border-radius: 5px;
+  padding:4px;
+}
+
+.displayBoard tr:nth-child(even) {
+  background-color: #474747;
+}
+
+.displayBoard tr:nth-child(odd) {
+  background-color: #323232;
+}
